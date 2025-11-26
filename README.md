@@ -17,5 +17,7 @@
 | Actividad | Descripción | Enlace |
 |----------|-------------|--------|
 | Actividad 1 |ÁRBOL BINARIO CODIGO | [📄 Ver Código ](https://github.com/1224100827mrs-gif/U3EjerciciosGuiados/blob/main/ArbolBinario.md) |
-
+| Ejemplos de Prueba para BST (Para Dibujar en el Cuaderno)  |![Imagen de WhatsApp 2025-11-25 a las 20 16 46_0bb5d33f](https://github.com/user-attachments/assets/98289aa3-8662-4fc2-b6b5-5248fb5a42ea)| ![Imagen de WhatsApp 2025-11-25 a las 20 16 46_f3452039](https://github.com/user-attachments/assets/63bbe05d-fce9-48f3-ac0e-4c70ab0e57e9)|
+|| ![Imagen de WhatsApp 2025-11-25 a las 20 16 46_4286cdb7](https://github.com/user-attachments/assets/d32af9c9-cc18-4131-8539-98bacace1d28)
+|
 
