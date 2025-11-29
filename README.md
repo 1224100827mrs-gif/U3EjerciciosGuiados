@@ -21,3 +21,20 @@
 || ![Imagen de WhatsApp 2025-11-25 a las 20 16 46_4286cdb7](https://github.com/user-attachments/assets/d32af9c9-cc18-4131-8539-98bacace1d28)
 |
 
+## DICCIONARIOS
+| Actividad | Descripción | Enlace |
+|----------|-------------|--------|
+| Actividad 1 | DICCIONARIO NEARDPOD |[📄 Ver PDF]( https://github.com/1224100827mrs-gif/U3EjerciciosGuiados/blob/main/NearPod%20Diccionarios.pdf) |
+
+## CONJUNTOS 
+| Actividad | Descripción | Enlace |
+|----------|-------------|--------|
+| Actividad 1 | CONJUNTOS NEARDPOD |[📄 Ver PDF](https://github.com/1224100827mrs-gif/U3EjerciciosGuiados/blob/main/ConjuntosNeardPod.pdf) |
+
+
+
+
+
+
+
+
