@@ -31,6 +31,10 @@
 |----------|-------------|--------|
 | Actividad 1 | CONJUNTOS NEARDPOD |[📄 Ver PDF](https://github.com/1224100827mrs-gif/U3EjerciciosGuiados/blob/main/ConjuntosNeardPod.pdf) |
 
+## MAPA MENTAL ESTRUCTURA DE DATOS
+
+![Imagen de WhatsApp 2025-12-02 a las 16 16 39_4ff017fa](https://github.com/user-attachments/assets/e3cab560-6f5f-4375-b743-6c8da382d503)
+
 
 
 
