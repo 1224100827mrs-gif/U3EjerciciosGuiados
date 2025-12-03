@@ -24,7 +24,7 @@
 ## DICCIONARIOS
 | Actividad | Descripción | Enlace |
 |----------|-------------|--------|
-| Actividad 1 | DICCIONARIO NEARDPOD |[📄 Ver PDF]( https://github.com/1224100827mrs-gif/U3EjerciciosGuiados/blob/main/NearPod%20Diccionarios.pdf) |
+| Actividad 1 | DICCIONARIO NEARDPOD |[📄 Ver PDF]( https://github.com/1224100827mrs-gif/U3EjerciciosGuiados/blob/main/NearPod%20Diccionarios_Marisol.pdf) |
 
 ## CONJUNTOS 
 | Actividad | Descripción | Enlace |
